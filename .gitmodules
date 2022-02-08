@@ -1,0 +1,12 @@
+[submodule "basic-concepts-assignment-module-1"]
+	path = basic-concepts-assignment-module-1
+	url = https://github.com/ATeerlinck/basic-concepts-assignment-module-1
+[submodule "awsd-assignment-2-mui"]
+	path = awsd-assignment-2-mui
+	url = https://github.com/ATeerlinck/awsd-assignment-2-mui
+[submodule "awsd-assignment-3"]
+	path = awsd-assignment-3
+	url = https://github.com/ATeerlinck/awsd-assignment-3
+[submodule "awsd-module-5-assignment"]
+	path = awsd-module-5-assignment
+	url = https://github.com/ATeerlinck/awsd-module-5-assignment
